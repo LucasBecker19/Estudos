@@ -1,0 +1,41 @@
+body{
+	height: 100%; /* altura */
+	width: 100%; /* largura */
+	margin: 0 auto; /* pra deixar a página em a barra de rolagem inferior */
+}
+.menu-principal{
+	width: 100%;
+	background-color: #252323; /* pode pegar cor no photoshop*/
+	height: 60px;
+}
+main{
+	margin: 0 auto;
+	width: 980px;
+	position: relative;
+}
+.logo{
+	padding: 15px; 
+	width: 70%;
+	float: left;
+}
+.redes-sociais ul li{
+	display: inline-block; /* deixar as logos em uma linha*/
+	float: right;
+	padding: 17px 15px 0px 15px; /* margem cima, direita, baixo esquerda (como o relógio) */
+}
+.header-2{
+	background-color: #ffffff;
+	width: 100%;
+	border-bottom: 3px solid #efefef;
+}
+.menu ul li{
+	display: inline-block;
+	padding: 0 10px 0 10px;
+	color: #8b8b8b;
+}
+.menu ul li a {
+	color: #8b8b8b;
+	font-size: 14px;
+	text-decoration: none;
+}
+/* */

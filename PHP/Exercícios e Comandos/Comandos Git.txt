@@ -1,0 +1,27 @@
+Comandos Git
+-----------------------------
+...Para iniciar...
+Vá na pasta, botão direito, 
+"Git bash here", git init
+// para verificar se deu certo,
+// url da pasta, adc \.git
+// se a pasta existir, pronto
+-----------------------------
+...Para adicionar ao Git...
+  git add index.php
+       ou
+  git add --all
+-----------------------------
+Para levar a "área de espera"
+  git commit -m "mensagem"
+-----------------------------
+Para linkar seu repositório...
+  git remote add origin https:/
+  /github.com/LucasBecker19/ph
+  p.git
+-----------------------------
+...Para upar online...
+  git push origin master
+-----------------------------
+Para download da versão att...
+  git pull origin master

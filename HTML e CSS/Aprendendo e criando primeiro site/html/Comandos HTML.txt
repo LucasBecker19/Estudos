@@ -1,0 +1,44 @@
+html
+<!doctype html>
+<html> </html>
+<head> </head>
+<title> </title>
+<meta charset="utf-8" />   (no head)
+<body> </body>
+<h1> </h1> (título)
+<p> </p> (parágrafo)
+<strong> </strong> (negrito)
+<em> </em> (itálico)
+<br /> (quebra de linha)
+----------------------------------------------------------
+LISTAS
+----------------------------------------------------------
+<h1>Lista não ordenada</h1>
+<ul> (ele faz ter * na frente) (na vdd é ponto mas né)
+	<li>Primeiro item da lista</li>
+	<li>Segundo item da lista</li>
+	<li>Terceiro item da lista</li>
+	<li>Quarto item da lista</li>
+</ul>
+----------------------------------------------------------
+<h1>Lista ordenada</h1>
+<ol>  (faz ter numeros em sequencia na frente de cada item)
+	<li>Primeiro item da lista</li>
+	<li>Segundo item da lista</li>
+	<li>Terceiro item da lista</li>
+	<li>Quarto item da lista</li>
+</ol>
+----------------------------------------------------------
+<h1>Lista de definição</h1>
+<dl>
+	<dt>HTML</dt>
+	<dd>Linguagem de marcação para páginas web</dd>
+	<dt>HTML</dt>
+	<dd>Linguagem de marcação para páginas web</dd>
+	<dt>HTML</dt>
+	<dd>Linguagem de marcação para páginas web</dd>	
+	<dt>HTML</dt>	
+	<dd>Linguagem de marcação para páginas web</dd>
+</dl>
+----------------------------------------------------------
+----------------------------------------------------------

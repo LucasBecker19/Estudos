@@ -1,0 +1,26 @@
+﻿<!doctype html>
+<html>
+
+	<head>
+		<title>Trabalhando com formulários</title>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" type="text/css" href="estilo3.css"/>
+	</head>
+
+	<body>
+		<form action="" method="get"> <!-- Formulário /// method= "get" ou "post" -->
+			<label for="nome">Nome:</label> <!-- etiqueta -->
+			<input id="nome" type="text" placeholder="Digite seu nome" name="nome"/>
+			<label for="opcao">Você gostou do site?</label>
+			<input id="opcao" type="radio" name="opcao" value="Sim" checked="checked" />Sim
+			<input id="opcao" type="radio" name="opcao" value="Não" />Não
+			<label for="linguagem">Você quer aprender mais sobre:</label>
+			<input type="checkbox" name="html">HTML
+			<input type="checkbox" name="css">CSS
+			<textarea name="msg"></textarea>
+			<input type="submit" value="Enviar"/> <!-- botão de enviar -->
+		</form>
+	</body>
+	
+</html>
+

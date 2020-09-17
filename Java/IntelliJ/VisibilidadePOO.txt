@@ -1,0 +1,3 @@
++ público (todas as classes) = (todos)
+- privado (apenas a classe) = (apenas eu)
+# protegido (apenas a classe e suas sub-classes) = (uma mãe e seus filhos) 

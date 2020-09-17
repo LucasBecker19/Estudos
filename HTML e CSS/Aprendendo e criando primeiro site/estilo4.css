@@ -1,0 +1,16 @@
+h1
+{
+	color: orange;
+	letter-spacing: -1px; (espacamento entre as letras)
+	text-transform: uppercase; (também tem o lowercase, _que deixa tudo minusculo_ e o "capitalize" que deixa a primeira letra de cada palavra maiúscula)
+	width: 650px;
+	text-shadow: 1px 1px 1px black; (sombra na letra....horizontal, vertical, desfoco, cor)
+}
+p{
+	text-indent: 50px; (parágrafo);
+	width: 650px; (largura);
+	text-align: justify; (alinhar o texto na direita,esquerda ou centro (center). também pode colocar justify pra deixar as margens justificadas);
+	font-size: 18px; (16 é o normal);
+	font-family: verdana,arial,sans-serif;
+}
+
